@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "titulo": "NOTBOOK-1",
+        "descripcion": "Aenean auctor gravida sem.Nulla ut erat id mauris vulputate elementum.",
+        "categoria": "notebooks",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 750.000,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "AUDRICULAR-1",
+        "descripcion": "Nulla ut erat id mauris vulputate elementum.Nulla ut erat id mauris vulputate elementum.",
+        "categoria": "perifericos",
+        "imagen": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+        "precio": 80.000,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "TECLADO-1",
+        "descripcion": "Aenean auctor gravida sem.Nulla ut erat id mauris vulputate elementum.",
+        "categoria": "perifericos",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 75.000,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "NOTEBOOKS-2",
+        "descripcion": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.Nulla ut erat id mauris vulputate elementum.",
+        "categoria": "notebooks",
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000",
+        "precio": 500.000,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "PENDRIVE-1",
+        "descripcion": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.",
+        "categoria": "perifericos",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 2000,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "MOUSE-1",
+        "descripcion": "In hac habitasse platea dictumst.",
+        "categoria": "perifericos",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "SOPORTE-1",
+        "descripcion": "In hac habitasse platea dictumst.",
+        "categoria": "accesorios",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "PAD-1",
+        "descripcion": "In hac habitasse platea dictumst.",
+        "categoria": "accesorios",
+        "imagen": "http://dummyimage.com/200x100.png/5fa2dd/ffffff",
+        "precio": 1500,
+        "stock": 10
+    }
+    
+]
